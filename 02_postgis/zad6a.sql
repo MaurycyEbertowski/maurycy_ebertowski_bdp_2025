@@ -1,0 +1,1 @@
+SELECT SUM(ST_Length(geometry)) AS calkowita_dlugosc FROM roads;
